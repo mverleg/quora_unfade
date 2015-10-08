@@ -1,0 +1,9 @@
+{
+  "name": "quora_unfade",
+  "title": "Quora unfade",
+  "description": "Hides the fading effect and registration box that Quora likes to annoy us with.",
+  "author": "Mark",
+  "license": "BSD",
+  "version": "0.1.0",
+  "main": "lib/main.js"
+}
