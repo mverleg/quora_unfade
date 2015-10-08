@@ -16,3 +16,11 @@ License
 
 Revised BSD License, see LICENSE.txt. You can use the addon as you choose, without warranty. The code is also available, see Contributors.
 
+Other addons
+---------------------------------------
+
+* Hide distracting "read more" parts of some popular sites - https://addons.mozilla.org/firefox/addon/block_read_more/
+* Hide comments on some popular sites where they are notoriously unconstructive - https://addons.mozilla.org/firefox/addon/block-comments/
+* Hide the registration overlay on Quora [this one] - https://addons.mozilla.org/firefox/addon/quora-unfade/
+
+
