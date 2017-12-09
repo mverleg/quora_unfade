@@ -1,4 +1,6 @@
 sdk/
+sdk
 *~
 *.xpi
-
+*.iml
+/web-ext-artifacts/
