@@ -9,12 +9,12 @@ In case you don't like being forced to register, this simple addon is the altern
 Contributions
 ---------------------------------------
 
-Any additional blocking rules are most welcome! You can request them at https://github.com/mverleg/block_comments/issues
+Any additional blocking rules are most welcome! You can request them at https://github.com/mverleg/quora_unfade/issues
 
 License
 ---------------------------------------
 
-Revised BSD License, see https://github.com/mverleg/block_comments/blob/master/LICENSE.txt. You can use the addon as you choose, without warranty. The code is also available, see Contributors.
+Revised BSD License, see https://github.com/mverleg/quora_unfade/blob/master/LICENSE.txt. You can use the addon as you choose, without warranty. The code is also available, see Contributors.
 
 Other addons
 ---------------------------------------
