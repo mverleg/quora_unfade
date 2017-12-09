@@ -1,0 +1,22 @@
+
+.signup_wall_prevent_scroll {
+	overflow: scroll;
+}
+
+#logged_out_footer {
+	display: none;
+}
+
+.modal_signup_dialog, .modal_signup_background, .vertical_alignment_wrapper {
+	display: none;
+}
+
+/* Remove login button since it doesn't work. */
+.signup_login_buttons, .header_signin_with_search_bar {
+	display: none !important;
+}
+
+/* Remove the bottom 'ask question' dialogue. */
+.layout_2col_main > div:last-child {
+	display: none;
+}
